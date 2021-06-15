@@ -19,6 +19,7 @@ If you use this code in your work, please cite our paper:
   year={2021}
 }
 ```
+Code in pytorch_ssim is from `https://github.com/Po-Hsun-Su/pytorch-ssim`
 
 ## Running the Code
 * [Environment Setup](#environment)
