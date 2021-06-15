@@ -6,9 +6,6 @@
 <sup>1</sup>Brown, <sup>2</sup>KAIST<br>
 CVPR 2021
 
-Presentation Video (YouTube)<br>
-<a href=""><img src="./view-consistent-superpixels.gif" width="70%"></a><br>
-
 ### [Paper]() | [Supplemental]() | [Presentation Video]() 
 
 ## Citation
@@ -33,6 +30,7 @@ If you use this code in your work, please cite our paper:
 The code has been tested with Python3.6 using Pytorch=1.5.1.
 
 The provided setup file can be used to install all dependencies and create a conda environment `diffdiffdepth`:
+
 ```$ conda  env create -f environment.yml```
 ```$ conda activate diffdiffdepth```
 
