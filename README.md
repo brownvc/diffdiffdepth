@@ -6,7 +6,7 @@
 <sup>1</sup>Brown, <sup>2</sup>KAIST<br>
 CVPR 2021
 
-### [Paper](http://arxiv.org/abs/2106.08917) | [Supplemental](https://visual.cs.brown.edu/diffdiffdepth/docs/khan2021_diffdiffdepth_supp.pdf) | [Presentation Video](https://visual.cs.brown.edu/diffdiffdepth/video/diffdiffdepth_cvpr2021.mp4) 
+### [Paper](http://arxiv.org/abs/2106.08917) | [Supplemental](http://visual.cs.brown.edu/projects/diffdiffdepth-webpage/docs/khan2021_diffdiffdepth_supp.pdf) | [Presentation Video](http://visual.cs.brown.edu/projects/diffdiffdepth-webpage/video/diffdiffdepth_cvpr2021.mp4) 
 
 ## Citation
 If you use this code in your work, please cite our paper:
