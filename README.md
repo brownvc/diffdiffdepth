@@ -49,4 +49,8 @@ Example usage:
 
 ### Lightfield Images
 
+*Coming soon!*
+
 ### Troubleshooting
+
+_We will add to this section as issues arise._
