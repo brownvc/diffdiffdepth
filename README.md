@@ -6,7 +6,7 @@
 <sup>1</sup>Brown, <sup>2</sup>KAIST<br>
 CVPR 2021
 
-### [Paper]() | [Supplemental]() | [Presentation Video]() 
+### [Paper](http://arxiv.org/abs/2106.08917) | [Supplemental](https://visual.cs.brown.edu/diffdiffdepth/docs/khan2021_diffdiffdepth_supp.pdf) | [Presentation Video](https://visual.cs.brown.edu/diffdiffdepth/video/diffdiffdepth_cvpr2021.mp4) 
 
 ## Citation
 If you use this code in your work, please cite our paper:
@@ -33,6 +33,7 @@ The code has been tested with Python3.6 using Pytorch=1.5.1.
 The provided setup file can be used to install all dependencies and create a conda environment `diffdiffdepth`:
 
 ```$ conda  env create -f environment.yml```
+
 ```$ conda activate diffdiffdepth```
 
 ### Multiview Stereo
