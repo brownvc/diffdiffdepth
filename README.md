@@ -6,6 +6,8 @@
 <sup>1</sup>Brown, <sup>2</sup>KAIST<br>
 CVPR 2021
 
+![Animation showing improvement of our method versus naive diffusion-based depth estimation](http://visual.cs.brown.edu/projects/diffdiffdepth-webpage/img/teaser_dino_depth.gif)
+
 ### [Paper](http://arxiv.org/abs/2106.08917) | [Supplemental](http://visual.cs.brown.edu/projects/diffdiffdepth-webpage/docs/khan2021_diffdiffdepth_supp.pdf) | [Presentation Video](http://visual.cs.brown.edu/projects/diffdiffdepth-webpage/video/diffdiffdepth_cvpr2021.mp4) 
 
 ## Citation
