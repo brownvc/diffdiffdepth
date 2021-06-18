@@ -6,10 +6,10 @@
 <sup>1</sup>Brown, <sup>2</sup>KAIST<br>
 CVPR 2021
 
-![Dinosaur dataset](http://visual.cs.brown.edu/projects/diffdiffdepth-webpage/img/teaser_dino_rgb.png)
-![Dinosaur dataset animation showing improvement of our method versus naive diffusion-based depth estimation](http://visual.cs.brown.edu/projects/diffdiffdepth-webpage/img/teaser_dino_depth.gif)
-![Lego dataset](http://visual.cs.brown.edu/projects/diffdiffdepth-webpage/img/teaser_lego_rgb.png)
-![Lego dataset animation showing improvement of our method versus naive diffusion-based depth estimation](http://visual.cs.brown.edu/projects/diffdiffdepth-webpage/img/teaser_lego_depth.gif)
+<img src="http://visual.cs.brown.edu/projects/diffdiffdepth-webpage/img/teaser_dino_rgb.png" width=150px>
+<img src="http://visual.cs.brown.edu/projects/diffdiffdepth-webpage/img/teaser_dino_depth.gif" width=150px>
+<img src="http://visual.cs.brown.edu/projects/diffdiffdepth-webpage/img/teaser_lego_rgb.png" width=150px>
+<img src="http://visual.cs.brown.edu/projects/diffdiffdepth-webpage/img/teaser_lego_depth.gif" width=150px>
 
 ### [Paper](http://arxiv.org/abs/2106.08917) | [Supplemental](http://visual.cs.brown.edu/projects/diffdiffdepth-webpage/docs/khan2021_diffdiffdepth_supp.pdf) | [Presentation Video](http://visual.cs.brown.edu/projects/diffdiffdepth-webpage/video/diffdiffdepth_cvpr2021.mp4) 
 
