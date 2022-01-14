@@ -51,7 +51,7 @@ Example usage:
 
 ### Lightfield Images
 
-*Coming soon!*
+Input sparse point clouds are derived from our light field depth estimation work code here: https://github.com/brownvc/lightfielddepth
 
 ### Troubleshooting
 
