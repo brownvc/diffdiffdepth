@@ -23,6 +23,12 @@ If you use this code in your work, please cite our paper:
 ```
 Code in pytorch_ssim is from `https://github.com/Po-Hsun-Su/pytorch-ssim`
 
+## Included in this PyTorch code
+
+* A differentiable Gaussian splatting algorithm based on radiative transport that models scene occlusion.
+* A differentiable implementation of Szeliski's SIGGRAPH 2006 paper [Locally Adaptive Hierarchical Basis Preconditioning](https://dl.acm.org/doi/10.1145/1179352.1142005) for solving partial differential equations (PDEs) iteratively with very few steps.  
+* A tile-based diffusion solver that combines the previous two approaches to scale to large images efficiently.
+
 ## Running the Code
 * [Environment Setup](#environment)
 * [Multiview Stereo](#mvs)
